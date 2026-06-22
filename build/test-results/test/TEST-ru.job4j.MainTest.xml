@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.job4j.MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-12T20:35:43.702Z" hostname="DESKTOP-RG0BPT1" time="0.06">
-  <properties/>
-  <testcase name="whenActionThenResult()" classname="ru.job4j.MainTest" time="0.06"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
