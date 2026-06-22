@@ -1,6 +1,6 @@
-# Gradle
+# Gradle cache
 .gradle/
-**/build/
+build/
 
 # Java
 *.class
@@ -17,12 +17,5 @@
 .DS_Store
 Thumbs.db
 
-# Package Files #
-*.jar
-*.war
-*.ear
-
-.idea
-*.iml
-
-target
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
